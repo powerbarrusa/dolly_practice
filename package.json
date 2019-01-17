@@ -1,0 +1,25 @@
+{
+  "name": "dolly_practice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/powerbarrusa/dolly_practice.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/powerbarrusa/dolly_practice/issues"
+  },
+  "homepage": "https://github.com/powerbarrusa/dolly_practice#readme",
+  "description": ""
+}
